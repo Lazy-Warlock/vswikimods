@@ -1,0 +1,11 @@
+{
+  "type": "code",
+  "name": "MagicWand",
+  "description": "Shoots magic particles!",
+  "author": "CreativeMD (Updated by The Lazy Warlock)",
+  "version": "1.0.1",
+  "dependency": {
+    "game": "1.12"
+  },
+  "website": "https://wiki.vintagestory.at/index.php?title=Modding:Block_and_Item_Interactions"
+}
